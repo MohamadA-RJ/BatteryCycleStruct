@@ -7,7 +7,7 @@ This code was used in the paper titled: *"Computational Micromechanics and Machi
 It is a simple code that employs MATLAB’s built-in functions to prepare battery cycling data for analysis and machine learning applications.
 
 <div align="center">
-  <img src="Framework.PNG" alt="Data Structuring Overview" />
+  <img src="Framework.png" alt="Data Structuring Overview" />
 </div>
 
 ---
